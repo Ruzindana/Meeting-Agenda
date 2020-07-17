@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(0, 0, 0, 0.836);
+}
+
+.nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  text-align: center;
+}
+
+.nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 650%;
+}
+
+.nav ul li {
+  list-style: none;
+  color: azure;
+}
+
+hr {
+  color: coral;
+}
+/*# sourceMappingURL=style.css.map */
